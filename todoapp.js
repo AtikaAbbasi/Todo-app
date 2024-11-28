@@ -17,13 +17,6 @@ else{
     li.appendChild(linote)
 
 
-// var eBtn = document.createElement("button")
-// var eBtnTx = document.createTextNode("Edit")
-// eBtn.appendChild(eBtnTx)
-// eBtn.setAttribute("onclick", "editTx(this)")
-// eBtn.setAttribute("class","but1")
-// li.appendChild(eBtn)
-
 
 
 
@@ -37,14 +30,6 @@ li.appendChild(eBtn)
 
 
 /////////////////////
-
-// var delbtn = document.createElement("button");
-// var delbtntx = document.createTextNode('delete')
-// delbtn.appendChild(delbtntx)
-// delbtn.setAttribute("onclick","deletx(this)")
-// delbtn.setAttribute("class", "but2")
-// li.appendChild(delbtn)
-
 
 var delbtn = document.createElement("button");
 var icon = document.createElement("i")

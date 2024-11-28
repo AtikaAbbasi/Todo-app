@@ -178,6 +178,8 @@ border-radius: 5px;
     .but1{
         width: 66px;
         height: 30px;
+        position: absolute;
+        right: 90px;
 
     }
 
